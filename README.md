@@ -17,7 +17,7 @@ This project explores the field of cryptography,using the help of 8086 Microproc
 
 Download the source files from this repository
 
-Download the EMU 8086 Simulator (From here) [https://emu8086.en.lo4d.com/windows]
+Download the EMU 8086 Simulator [From here](https://emu8086.en.lo4d.com/windows)
 
 Set up your Linux machine on it and run upgrades
 
