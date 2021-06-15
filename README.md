@@ -1,6 +1,10 @@
 # Cryptography-Encoding-and-Decoding-in-EMU8086-
 ## About the project
-This project explores the field of cryptography,using the help of 8086 Microprocessor.It was a concept to implement security,along with the subject of Microprocessors
+This project explores the field of cryptography,using the help of 8086 Microprocessor.It was a concept to implement security,along with the subject of Microprocessors.
+
+## Functionality of the Project
+
+The user can enter a string of length 4.The EMU arithmetic library,it's operations and functions have been implemented to encrypt the string,which is presented to the user.The software also offers an option to decrypt your encoded string,to recieve the original plaintext
 
 ## Resources Used
 
@@ -19,5 +23,5 @@ This project explores the field of cryptography,using the help of 8086 Microproc
 
 - Download the source files from this repository and open them from the software
 
-- Encode and decrypt n-length strings.Have fun playing around with the project! 
+- Encode and decrypt a string of length 4.Have fun playing around with the project! 
 
