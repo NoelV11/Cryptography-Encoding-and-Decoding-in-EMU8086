@@ -4,7 +4,7 @@ This project explores the field of cryptography,using the help of 8086 Microproc
 
 ## Functionality of the Project
 
-The user can enter a string of length 4.The EMU arithmetic library,it's operations and functions have been implemented to get the input,perform the substitution process,to encrypt the string,whose encrypted output is presented to the user.The software also offers an option to decrypt your encoded string,to recieve the original plaintext
+The user can enter a string of length 4.The EMU arithmetic library,it's operations and functions have been implemented to get the input,perform the substitution process,to encrypt the string,whose encrypted output is presented to the user.The software also offers an option to decrypt your encoded string,to recieve the original plaintext.
 
 ## Resources Used
 
